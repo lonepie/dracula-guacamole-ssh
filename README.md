@@ -2,7 +2,7 @@
 Dracula Theme for Apache Guacamole SSH Web Client
 
 ## Usage
-Copy and paste the color definitions into Custom colorscheme:
+Copy and paste the [color definitions](https://github.com/lonepie/dracula-guacamole-ssh/raw/main/dracula-guacamole-ssh.md) under Display/Color scheme/Custom/Defails:
 ![settings]
 
 ## Screenshot
