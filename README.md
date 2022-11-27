@@ -1,9 +1,10 @@
-# Dracula for Guacamole SSH
-Port of [Dracula Theme](https://draculatheme.com) for [Apache Guacamole](https://guacamole.apache.org) SSH Client
+# Dracula for Guacamole SSH Console
+Port of [Dracula Theme](https://draculatheme.com) for [Apache Guacamole](https://guacamole.apache.org) SSH Console/Client
 
 ## Usage
 Copy and paste the [color definitions](https://github.com/lonepie/dracula-guacamole-ssh/raw/main/dracula-guacamole-ssh.md) under Display/Color scheme/Custom/Defails:
 ![settings]
+More detailed instructions are available in the [Guacamole Docs](https://guacamole.apache.org/doc/gug/configuring-guacamole.html#terminal-display-settings)
 
 ## Screenshot
 ![screenshot]
